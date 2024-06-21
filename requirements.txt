@@ -1,0 +1,7 @@
+pm4py>=2.7.11.10
+duckdb
+openai
+crewai
+crewai[tools]
+langchain
+langchain-openai
