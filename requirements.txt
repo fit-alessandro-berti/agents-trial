@@ -1,4 +1,4 @@
-pm4py>=2.7.11.10
+pm4py>=2.7.11.13
 duckdb
 openai
 crewai
